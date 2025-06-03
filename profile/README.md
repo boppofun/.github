@@ -3,7 +3,7 @@
 [Boppo] is a tablet with 10 light up buttons and a speaker but no screen.
 
 Boppo ships with over 40 activities that come included for free on the tablet
-and a
+and faceplates can go on top of the tablet to add more activities over time.
 
 We are making an open source SDK for activity development which we are working
 on shipping.
