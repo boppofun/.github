@@ -1,19 +1,16 @@
 ![a tablet with 10 buttons in two rows of 5](tablet.png)
 
-[Boppo] is a tablet with 10 light up buttons and a speaker but no screen.
+[Boppo] is a tablet with 10 light up buttons and a speaker.
 
 Boppo ships with over 40 activities that come included for free on the tablet
-and faceplates can go on top of the tablet to add more activities over time.
+and Toppos can go on top of the tablet to add more activities over time.
 
 We are making an open source SDK for activity development which we are working
 on shipping.
 
-## The Specifications (subject to change)
+## The Specifications
 
-Boppo's 10 light up buttons contain 4 RGB LEDs that can be changed to any RGB
-value but bright and saturated colors are best represented (e.g. black is just
-no light emitted and does not look black due to the grey color of the buttons).
-
+Boppo's 10 light up buttons contain 4 individually addressable RGB LEDs.
 The buttons are quality custom ordered mechanical keyboard switches.
 
 Boppo is powered by an [ESP32-S3] which is a microcontroller that has:
@@ -30,6 +27,7 @@ Boppo also has:
 * an NFC antenna that can read supported NFC tags
 * a rechargable lipo battery
 * a USB-C port (for recharging and possibly future features that require data transfer)
+* a 3.5mm headphone jack
 
 # The SDK API
 
@@ -57,9 +55,14 @@ Boppo source code is manually verified before being deployed to tablets.
 
 ## Open
 
-The circuit board schematic will be available to the public. The [awedio] audio
-playback library has been open sourced and the SDK will be open sourced in the
-future. I plan to open source more of the platform over time.
+The [awedio] audio playback library has been open sourced and the SDK will be
+open sourced in the future. We want to open up more the platform over time,
+if there is anything you are particularly interested in please reach out.
+
+## Feature Requests
+
+Vote for your [favorite next feature] for us to work on with a thumbs up or
+post a new feature request.
 
 ## Questions or Comments?
 
@@ -70,5 +73,6 @@ ben@boppo.com
 [Rust]: https://rust-lang.org
 [awedio]: https://github.com/10buttons/awedio
 [ESP32-S3]: https://www.espressif.com/en/products/socs/esp32-s3
+[favorite next feature]: https://github.com/boppofun/feature_requests/issues
 [FAQ]: https://boppo.com/pages/faq
 [reddit thread]: https://www.reddit.com/r/boppo/comments/1eqmc9v/got_a_question_ask_here/
