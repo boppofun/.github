@@ -1,6 +1,12 @@
 ![a tablet with 10 buttons in two rows of 5](tablet.png)
 
-[Boppo] is a tablet with 10 light up buttons and a speaker.
+<p align="center">
+<a href="https://">boppo.com</a> | <a href="https://developer.boppo.com">Developer Docs</a>
+</p>
+
+## Boppo, the Screen-free Tablet for Fun and Learning
+
+Boppo is a tablet with 10 light up buttons and a speaker.
 
 Boppo ships with over 40 activities that come included for free on the tablet
 and Toppos can go on top of the tablet to add more activities over time.
