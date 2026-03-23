@@ -1,7 +1,7 @@
 ![a tablet with 10 buttons in two rows of 5](tablet.png)
 
 <p align="center">
-<a href="https://">boppo.com</a> | <a href="https://developer.boppo.com">Developer Docs</a>
+<a href="https://boppo.com">boppo.com</a> | <a href="https://developer.boppo.com">Developer Docs</a>
 </p>
 
 ## Boppo, the Screen-free Tablet for Fun and Learning
