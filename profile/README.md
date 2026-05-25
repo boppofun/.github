@@ -1,5 +1,3 @@
-![a tablet with 10 buttons in two rows of 5](tablet.png)
-
 ## What is Boppo?
 
 Boppo is a programmable screen-free tablet with 10 light-up mechanical keyboard buttons, a speaker, RFID reader, SD card and ESP32-S3 micro-controller.
